@@ -65,4 +65,4 @@ The models apply several quantitative techniques used in credit risk modeling:
 
 **Xiaozhu Zhang**  
 M.S. Enterprise Risk Management, Columbia University  
-*Focus: Credit Risk Management & Quantitative Modeling*
+*Focus: Risk Management & Credit Risk Management & Risk Consult*
